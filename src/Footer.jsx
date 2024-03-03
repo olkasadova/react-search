@@ -5,8 +5,8 @@ export default function Footer (){
         <p>
           This project was coded by
           <a href="https://react-vanilla-search.netlify.app/" target="_blank" rel="noreferrer"> Olha Sadova</a> and is
-          <a href="https://github.com/olkasadova/react-weather" target="_blank" rel="noopener"> on GitHub</a> and
-          <a href="https://react-vanilla-search.netlify.app/" target="_blank" rel="noopener"> hosted on Netlify</a>
+          <a href="https://github.com/olkasadova/react-weather" target="_blank" rel="noreferrer"> on GitHub</a> and
+          <a href="https://react-vanilla-search.netlify.app/" target="_blank" rel="noreferrer"> hosted on Netlify</a>
         </p>
       </footer>
       );
